@@ -1,0 +1,81 @@
+{
+    "rss_feeds": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "local_db_key": "tech_crunch"
+      },
+      {
+        "name": "The Verge",
+        "url": "http://www.theverge.com/rss/index.xml",
+        "local_db_key": "the_verge"
+      },
+      {
+        "name": "LifeHacker",
+        "url": "https://lifehacker.com/feed/rss",
+        "local_db_key": "life_hacker"
+      },
+      {
+        "name": "Wired",
+        "url": "https://www.wired.com/feed",
+        "local_db_key": "wired"
+      },
+      {
+        "name": "Hacker News",
+        "url": "https://news.ycombinator.com/rss",
+        "local_db_key": "hacker_news"
+      },
+      {
+        "name": "The Official Google Blog",
+        "url": "http://feeds.feedburner.com/blogspot/gJZg",
+        "local_db_key": "google"
+      },
+      {
+        "name": "TechRadar - All the latest technology newsTechCrunch",
+        "url": "https://www.techradar.com/rss",
+        "local_db_key": "techradar"
+      },
+      {
+        "name": "CNET",
+        "url": "https://www.cnet.com/rss/all/",
+        "local_db_key": "cnet"
+      },
+      {
+        "name": "9to5Google",
+        "url": "https://9to5google.com/feed/",
+        "local_db_key": "9to5google"
+      },
+  
+  
+      {
+        "name": "Entrepreneur",
+        "url": "https://www.entrepreneur.com/latest.rss",
+        "local_db_key": "entrepreneur"
+      },
+      {
+        "name": "Fast Company",
+        "url": "https://www.fastcompany.com/latest/rss?truncated=true",
+        "local_db_key": "fast_company"
+      },
+      {
+        "name": "NYT > Business",
+        "url": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "local_db_key": "nyt"
+      },
+      {
+        "name": "Quartz",
+        "url": "https://cms.qz.com/feed/",
+        "local_db_key": "quartz"
+      },
+      {
+        "name": "Mashable",
+        "url": "http://feeds.mashable.com/Mashable",
+        "local_db_key": "mashable"
+      },
+      {
+        "name": "MarketWatch",
+        "url": "http://www.marketwatch.com/rss/topstories",
+        "local_db_key": "market_watch"
+      }
+    ]
+  }

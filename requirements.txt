@@ -1,0 +1,16 @@
+annotated-types==0.6.0
+beautifulsoup4==4.12.2
+dnspython==2.4.2
+feedparser==6.0.11
+lxml==5.1.0
+motor==3.3.2
+pydantic==2.5.3
+pydantic_core==2.14.6
+pymongo==4.6.1
+python-box==7.1.1
+python-dateutil==2.8.2
+PyYAML==6.0.1
+sgmllib3k==1.0.0
+six==1.16.0
+soupsieve==2.5
+typing_extensions==4.9.0

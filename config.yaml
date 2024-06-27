@@ -1,0 +1,15 @@
+# This is the sleep time for the spider in hours
+spider_sleep_time: 2
+
+# This is the max items spider can scrap and store to mongodb at a time
+max_scrapped_news: 2
+
+# This is the name of the our own custom local database
+local_db_name: database.db
+
+# This is the uri of a local mongodb client
+mongodb:
+  uri: mongodb://localhost:27017/
+  name: news_scrapper
+  collections:
+    - scrapped_news
