@@ -69,9 +69,8 @@ class Spider:
             for entry in feed.entries:
                 id = self.generate_sha256_hash(entry.id)
 
-                # if self.db_key == "computer_world":
-                #     print(id)
-                #     print(entry.description)
+                if self.db_key == "tech_crunch":
+                    print(entry)
 
                 if not self.is_rss_feed_updated(
                     self.db_key, id, count

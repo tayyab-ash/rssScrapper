@@ -20,11 +20,7 @@
         "url": "https://www.wired.com/feed",
         "local_db_key": "wired"
       },
-      {
-        "name": "Hacker News",
-        "url": "https://news.ycombinator.com/rss",
-        "local_db_key": "hacker_news"
-      },
+     
       {
         "name": "The Official Google Blog",
         "url": "http://feeds.feedburner.com/blogspot/gJZg",
@@ -76,6 +72,160 @@
         "name": "MarketWatch",
         "url": "http://www.marketwatch.com/rss/topstories",
         "local_db_key": "market_watch"
-      }
+      },
+      {
+        "name": "Fortune",
+        "url": "http://fortune.com/feed/",
+        "local_db_key": "market_watch"
+      },
+      {
+        "name": "HBR",
+        "url": "http://feeds.harvardbusiness.org/harvardbusiness/",
+      "_id": "6684e22e55bbc73cdf1a5db3",
+        "local_db_key": "hbr"
+      },
+
+
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/espn/rss/news",
+        "local_db_key": "espn"
+      },
+      {
+        "name": "BBC Sport",
+        "url": "http://feeds.bbci.co.uk/sport/rss.xml",
+        "local_db_key": "bbc_sport"
+      },
+      {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/rss/12040",
+        "local_db_key": "sky_sports"
+      },
+      {
+        "name": "Deadspin",
+        "url": "https://deadspin.com/rss",
+        "local_db_key": "deadspin"
+      },
+      {
+        "name": "FOX Sports",
+        "url": "https://www.foxsports.com/content/feed?contentType=1&category=sports",
+        "local_db_key": "fox_sports"
+      },
+      {
+        "name": "90min",
+        "url": "https://90min.com/posts.rss",
+        "local_db_key": "90min"
+      },
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/rss/",
+        "local_db_key": "yahoo_sports"
+      },
+      {
+        "name": "ESPN Cricinfo",
+        "url": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+        "local_db_key": "cricinfo"
+      },
+      {
+        "name": "Sports 360",
+        "url": "https://sport360.com/feed",
+        "local_db_key": "cricinfo"
+      },
+
+
+      {
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/rss/si_topstories.rss",
+        "local_db_key": "sports_illustrated"
+      },
+      {
+        "name": "Bleacher Report",
+        "url": "https://bleacherreport.com/articles/feed?tag_id=7",
+        "local_db_key": "bleacher_report"
+      },
+      
+      {
+        "name": "CBS Sports",
+        "url": "https://www.cbssports.com/rss/headlines/",
+        "local_db_key": "cbs_sports"
+      },
+      
+     
+     
+      
+     
+      
+      
+      {
+        "name": "WebMD",
+        "url": "https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC",
+        "local_db_key": "webmd"
+      },
+      {
+        "name": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/rss-feeds/General-information.rss",
+        "local_db_key": "mayo_clinic"
+      },
+      {
+        "name": "Harvard Health",
+        "url": "https://www.health.harvard.edu/feed/rss.xml",
+        "local_db_key": "harvard_health"
+      },
+      {
+        "name": "Healthline",
+        "url": "https://www.healthline.com/rss/news",
+        "local_db_key": "healthline"
+      },
+      {
+        "name": "CDC Newsroom",
+        "url": "https://www.cdc.gov/media/releases/2021/newitems.xml",
+        "local_db_key": "cdc_newsroom"
+      },
+      {
+        "name": "MedlinePlus Health News",
+        "url": "https://medlineplus.gov/xml/medlineplus_healthnews.xml",
+        "local_db_key": "medlineplus"
+      },
+      {
+        "name": "NIH News in Health",
+        "url": "https://newsinhealth.nih.gov/rss/newsinhealth.xml",
+        "local_db_key": "nih_news_in_health"
+      },
+      {
+        "name": "Everyday Health",
+        "url": "https://www.everydayhealth.com/rss/conditions/",
+        "local_db_key": "everyday_health"
+      },
+      {
+        "name": "Health News from Medical News Today",
+        "url": "https://rss.medicalnewstoday.com/health_feeds/all.xml",
+        "local_db_key": "medical_news_today"
+      },
+      {
+        "name": "ScienceDaily - Health & Medicine",
+        "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+        "local_db_key": "sciencedaily_health"
+      },
+      {
+        "name": "Reuters Health News",
+        "url": "https://feeds.reuters.com/reuters/healthNews",
+        "local_db_key": "reuters_health"
+      },
+      {
+        "name": "NPR Health",
+        "url": "https://www.npr.org/rss/rss.php?id=1027",
+        "local_db_key": "npr_health"
+      },
+      {
+        "name": "The Guardian - Health",
+        "url": "https://www.theguardian.com/society/health/rss",
+        "local_db_key": "guardian_health"
+      },
+      {
+        "name": "CNN Health",
+        "url": "http://rss.cnn.com/rss/cnn_health.rss",
+        "local_db_key": "cnn_health"
+      }  
+  
     ]
   }
